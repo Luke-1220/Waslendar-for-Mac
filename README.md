@@ -20,7 +20,7 @@ macOS Xでの動作も確認しています。
 [**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.3/Waslendar_ver.1.0.3.zip)
 
 <details>
-  <summary>Previous versions</summary>
+  <summary><b>Previous versions</b></summary>
   ### version 1.0.2 (Notarized)
   起動時の警告が表示されないようになりました。
   ##### What's New
