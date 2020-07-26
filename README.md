@@ -21,6 +21,7 @@ macOS Xでの動作も確認しています。
 
 <details>
   <summary><b>Previous versions</b></summary>
+  
   ### version 1.0.2 (Notarized)
   起動時の警告が表示されないようになりました。
   ##### What's New
