@@ -19,30 +19,33 @@ macOS Xでの動作も確認しています。
 
 [**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.3/Waslendar_ver.1.0.3.zip)
 
-### version 1.0.2 (Notarized)
-起動時の警告が表示されないようになりました。
-##### What's New
-- Appleの公証に通過
+<details>
+  <summary>Previous versions</summary>
+  ### version 1.0.2 (Notarized)
+  起動時の警告が表示されないようになりました。
+  ##### What's New
+  - Appleの公証に通過
 
-[**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.2n/Waslendar_ver.1.0.2_new.dmg)
+  [**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.2n/Waslendar_ver.1.0.2_new.dmg)
 
-### version 1.0.2
+  ### version 1.0.2
 
-##### What's New
-- ウィンドウのサイズを3段階で調整可能に
-##### Bug Fixes
-- 次の予定が表示されない不具合を修正
+  ##### What's New
+  - ウィンドウのサイズを3段階で調整可能に
+  ##### Bug Fixes
+  - 次の予定が表示されない不具合を修正
 
-[**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.2/Waslendar_ver.1.0.2.dmg)
+  [**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.2/Waslendar_ver.1.0.2.dmg)
 
-### version 1.0.1
+  ### version 1.0.1
 
-##### Bug Fixes
-- 次の予定がメニューバーに表示されない不具合を修正
+  ##### Bug Fixes
+  - 次の予定がメニューバーに表示されない不具合を修正
 
-[**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.1/Waslendar_ver.1.0.1.dmg)
+  [**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.1/Waslendar_ver.1.0.1.dmg)
 
-`Initial Releases`
-### version 1.0.0
+  `Initial Releases`
+  ### version 1.0.0
 
-[**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.0/Waslendar_ver.1.0.0.dmg)
+  [**Download**](https://github.com/Luke-1220/Waslendar-for-Mac/releases/download/v1.0.0/Waslendar_ver.1.0.0.dmg)
+</details>
